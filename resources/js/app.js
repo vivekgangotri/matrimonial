@@ -1,0 +1,12 @@
+require('bootstrap');
+// require('./jquery');
+require('./easing.js');
+require('./easyResponsiveTabs.js');
+require('./filedrag.js');
+require('./intlTelInput.js');
+require('./jquery-ui.js');
+require('./jquery-2.2.3.min.js');
+require('./jquery.flexisel.js');
+require('./jquery.menu-aim.js');
+require('./main.js');
+require('./move-top.js');
